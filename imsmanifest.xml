@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5cR3iDThuIv_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Incorporation vs. Charitable Registration</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Incorporation_vs._Charitable_Registration_ORG">
+    <organization identifier="Incorporation_vs._Charitable_Registration_ORG">
+      <title>Incorporation vs. Charitable Registration</title>
+      <item identifier="Types_of_Non-Profits_and_Incorporation_D01_SCO" isvisible="true" identifierref="__5cR3iDThuIv_course_id_RES">
+        <title>Incorporation vs. Charitable Registration</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5cR3iDThuIv_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6H9umN1fYF6_80_P_0_106_2048_1152_DX2160_DY2160_CX1620_CY912.jpg" />
+      <file href="mobile/6ZOgJrsxiWz_80_DX322_DY322_CX239_CY67.png" />
+      <file href="story_content/5lNucyyN6qK_44100_48_0.mp3" />
+      <file href="mobile/6DAfztcNsjo_80_P_0_212_2048_1152_DX2160_DY2160_CX1620_CY912.jpg" />
+      <file href="story_content/5n2MGHllEN5_44100_48_0.mp3" />
+      <file href="mobile/6MQgnLQaBnE_80_P_319_0_1254_1452_DX1442_DY1442_CX633_CY733.png" />
+      <file href="story_content/6cVw2SPi4RY_44100_48_0.mp3" />
+      <file href="story_content/6JjnHQN9pkR_44100_48_0.mp3" />
+      <file href="mobile/5YEv2Hv4VGH_80_P_1006_0_1041_1113_DX1694_DY1694_CX645_CY690.jpg" />
+      <file href="story_content/5nOZre8rR9J_44100_48_0.mp3" />
+      <file href="mobile/5gVFXb7x1bw_80_DX1216_DY1216_CX607_CY911.jpg" />
+      <file href="mobile/69YDiJjIQ5n_80_P_0_0_1573_1651_DX1666_DY1666_CX697_CY732.png" />
+      <file href="story_content/5kFHXlLbmz7_44100_48_0.mp3" />
+      <file href="story_content/5XTFpGOtJ62_44100_48_0.mp3" />
+      <file href="story_content/5jbISVxSYMP_44100_48_0.mp3" />
+      <file href="mobile/5xoncH8ULo6_80_P_0_0_2048_1153_DX2160_DY2160_CX1620_CY912.jpg" />
+      <file href="story_content/5YZCIm1rfid_44100_48_0.mp3" />
+      <file href="mobile/6DWE2Oq7MGO_80_P_0_212_2048_1152_DX2160_DY2160_CX1620_CY912.jpg" />
+      <file href="mobile/5zNRAOroSyG_80_DX40_DY40_CX30_CY28.png" />
+      <file href="mobile/6rK88XbQj4I_80_DX40_DY40_CX29_CY28.png" />
+      <file href="mobile/60CqK0INMxX_80_DX40_DY40_CX28_CY19.png" />
+      <file href="mobile/6lYCB2Czs2l_80_P_1143_419_904_945_DX868_DY868_CX288_CY301.jpg" />
+      <file href="mobile/5anev1x0Adq_80_P_928_364_669_661_DX732_DY732_CX179_CY177.jpg" />
+      <file href="mobile/6kwawdMmopz_80_P_835_47_1039_938_DX472_DY472_CX179_CY162.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/url.png" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide6mZX1yl018f.jpg" />
+      <file href="mobile/Shape6gbC0eiNrKm.png" />
+      <file href="mobile/Slide5ohvpFlvMU6.jpg" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5k1f6IF9I3Y.js" />
+      <file href="html5/data/js/5rKJQSosr49.js" />
+      <file href="html5/data/js/5s8KGQCS4Rk.js" />
+      <file href="html5/data/js/60jhA1kIhxg.js" />
+      <file href="html5/data/js/61wZDod6U1m.js" />
+      <file href="html5/data/js/66TuV2lAcN1.js" />
+      <file href="html5/data/js/68JlSKyHosp.js" />
+      <file href="html5/data/js/6BWqC4HYc1S.js" />
+      <file href="html5/data/js/6kJPWI6NdMe.js" />
+      <file href="html5/data/js/6laPf9feIZY.js" />
+      <file href="html5/data/js/6S5Gga3Utn5.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
